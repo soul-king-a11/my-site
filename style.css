@@ -1,0 +1,30 @@
+#aba {border: solid 1px;
+    padding-left: 185px;
+    padding-right: 180px;
+    margin-bottom: 20px;
+display: block;
+text-align: center;
+background-color: rgb(149, 139, 124);
+font-style: italic;
+color: rgb(77, 64, 9);}
+#ab {border: solid 1px;
+padding-left: 185px;
+padding-right: 175px;
+margin-bottom: 20px;
+display: block;
+text-align: center;
+background-color: rgb(149, 139, 124);
+font-style: italic;
+color: rgb(77, 64, 9);}
+#ac {border: solid 1px;
+padding-left: 185px;
+padding-right: 193px;
+text-align: center;
+background-color: rgb(149, 139, 124);
+color: rgb(77, 64, 9);}
+img {border-top-left-radius: 50px;
+border-bottom-right-radius: 50px;}
+body {background-image: url(gihad.webp);
+margin-top: 150px;}
+h2 {color: rgba(86, 127, 66, 0.622);}
+p {color: rgba(86, 127, 66, 0.622);}
