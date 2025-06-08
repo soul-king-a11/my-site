@@ -35,13 +35,18 @@ p {color: rgba(86, 127, 66, 0.622);}
         img {width: 150px;
         height: 150px;
      border: solid rgb(94, 106, 26) 2px;
-     margin-left: 640px;
-     max-width: 100%;
+     margin-left: auto;
+     margin-right: auto;
+     border-top-left-radius: 20px;
+     border-bottom-right-radius: 20px;
      height: auto;
      display: block;}
+     
      
 h1 {text-align: center;}
 h2 {text-align: center;}
 p {text-align: center;} 
 body {margin-top: 200px;
+    max-width: 100%;
+    height: auto;
 background-image: url(gihad.webp);}
