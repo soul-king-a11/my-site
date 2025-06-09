@@ -1,33 +1,32 @@
 #aba {border: solid 1px;
     border-bottom-left-radius: 15px;
     border-top-right-radius: 15px;
-    padding-left: 185px;
-    padding-right: 180px;
-    margin-bottom: 20px;
+ padding: 1px;
+    margin-bottom: 2px;
 display: block;
 text-align: center;
-background-color: rgb(149, 139, 124);
+background-color: rgba(182, 223, 57, 0.626);
 font-style: italic;
-color: rgb(77, 64, 9);}
+color: rgba(25, 68, 84, 0.784);
+margin-left: auto;
+margin-right: auto;
+}
 #ab {border: solid 1px;
     border-bottom-left-radius: 15px;
     border-top-right-radius: 15px;
-padding-left: 185px;
-padding-right: 175px;
-margin-bottom: 20px;
+padding: 1px;
 display: block;
 text-align: center;
-background-color: rgb(149, 139, 124);
+background-color: rgba(182, 223, 57, 0.626);
 font-style: italic;
-color: rgb(77, 64, 9);}
+color: rgba(25, 68, 84, 0.784);}
 #ac {border: solid 1px;
     border-bottom-left-radius: 15px;
     border-top-right-radius: 15px;
-padding-left: 185px;
-padding-right: 193px;
+padding: 1px;
 text-align: center;
-background-color: rgb(149, 139, 124);
-color: rgb(77, 64, 9);
+background-color: rgba(182, 223, 57, 0.626);
+color: rgba(25, 68, 84, 0.784);
 display: block;}
  h2 {color: rgba(86, 127, 66, 0.622);}
 p {color: rgba(86, 127, 66, 0.622);}
@@ -35,13 +34,20 @@ p {color: rgba(86, 127, 66, 0.622);}
         img {width: 150px;
         height: 150px;
      border: solid rgb(94, 106, 26) 2px;
-     margin-left: 640px;
-     max-width: 100%;
+     margin-left: auto;
+     margin-right: auto;
+     border-top-left-radius: 20px;
+     border-bottom-right-radius: 20px;
      height: auto;
      display: block;}
+     
      
 h1 {text-align: center;}
 h2 {text-align: center;}
 p {text-align: center;} 
 body {margin-top: 200px;
-background-image: url(gihad.webp);}
+    max-width: 100%;
+    height: auto;
+background-image: url(jih.png);
+background-size: cover;
+background-position: center;}
